@@ -2,11 +2,11 @@
 ## Qiita記事用のファイル群
 
 ### 1. vsc_for_remote_debug
-<p>該当記事</p>
+該当記事
 - [VisualStudioCodeでPythonコードのリモートデバッグ][1-1]
 
 ### 2. preprocess_out_of_core
-<p>該当記事</p>
+該当記事
 - [画像の複雑なPreprocessをOut-of-coreで実現する][2-1]
 
 
